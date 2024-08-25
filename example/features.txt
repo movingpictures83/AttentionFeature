@@ -1,0 +1,5 @@
+geometric
+RASA
+HB
+charge
+hydropathy

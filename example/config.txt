@@ -1,0 +1,2 @@
+Prefix plugins/AttentionFeature/example/
+Plugin AttentionFeature inputfile parameters.attentionfeature.txt outputfile attn.feature.pkl

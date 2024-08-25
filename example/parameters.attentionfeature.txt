@@ -1,0 +1,8 @@
+attn	regular.attn.pkl
+attn_native	native.attn.pkl
+features	features.txt
+labels	output.labels.txt
+predict	regular.predicted.txt
+ppi	regular.ppi.txt
+nativepredict	native.predicted.txt
+nativeppi	native.ppi.txt
